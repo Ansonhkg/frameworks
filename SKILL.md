@@ -1,6 +1,6 @@
 ---
 name: frameworks
-description: Recommend at most one product or design framework from the framework catalog in `references/101-index.md`. Use when a user is working through a product, design, strategy, discovery, prioritization, growth, validation, execution, or systems problem and a framework recommendation may help. Do not apply any framework automatically. Only load an individual framework reference file after the user explicitly asks to apply it, explain it, go deeper on it, or use it on the current problem.
+description: Recommend at most one product or design framework from the framework catalog in `references/101-index.md`. Use when a user is working through a product, design, strategy, discovery, prioritization, growth, validation, execution, risk, decision-quality, or systems problem and a framework recommendation may help. Do not apply any framework automatically. Only load an individual framework reference file after the user explicitly asks to apply it, explain it, go deeper on it, or use it on the current problem.
 ---
 
 # Framework Router
@@ -36,6 +36,13 @@ Explanation: <1-2 sentences on why it fits>
 ```
 
 Then continue answering normally without applying the framework yet.
+
+
+## Strong Premortem Triggers
+
+Recommend **Premortem** when the user asks to stress-test a concrete plan or says: "premortem this", "run a premortem", "what could kill this", "future-proof this", "stress test this plan", "what am I missing here", "find the blind spots", "poke holes in this", "where will this break", or "devil's advocate this".
+
+Do not recommend Premortem for simple factual questions, ordinary draft feedback, vague ideas with no plan, or requests for multiple viewpoints that are better served by a council-style analysis.
 
 ## Selection rules
 
