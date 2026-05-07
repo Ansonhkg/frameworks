@@ -1,4 +1,4 @@
-# 100 Product Design Frameworks
+# 101 Product Design Frameworks
 
 From user insight to systems thinking, this is a core toolkit that covers the full product lifecycle. Pick any framework to open its detail page and usage steps.
 
@@ -203,4 +203,10 @@ From user insight to systems thinking, this is a core toolkit that covers the fu
 | **98** | Ansoff Growth Matrix | Execution | Combine existing or new products with existing or new markets into four strategic options: market penetration, product development, market development, and diversification. |
 | **99** | Value Innovation Framework | Systems Thinking | Shift strategic focus from beating competitors to creating a differentiated value proposition and breaking through with a new value curve. |
 | **100** | Lean UX Framework | Execution | Apply lean thinking to UX: build the minimum viable product quickly, test with users, and iterate based on data. Emphasize cross-functional collaboration and fast learning loops. |
+
+### Row 21
+
+| # | Title | Category | Description |
+|---|-------|----------|-------------|
+| **101** | Framing Terms Catalog | Execution | Use short composable terms like verdict first, triage mode, actionable only, and cold resume to tell agents what kind of thinking and response shape you need. |
 
